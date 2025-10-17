@@ -21,7 +21,7 @@ La hipótesis de análisis plantea que **los productos de la categoría _Shoes_ 
   - 18 columnas
   - Más de 200.000 registros de transacciones
 
-Descargar en (Dataset Nike Sales)[https://www.kaggle.com/datasets/agustinacaraffini/nike-sales/data]
+Descargar en [Dataset Nike Sales](https://www.kaggle.com/datasets/agustinacaraffini/nike-sales/data)
 
 ---
 
